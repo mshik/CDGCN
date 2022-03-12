@@ -1,2 +1,2 @@
-# TPCGDG
-Target Protein-Based Conditional De Novo Generation of Drug Graphs
+# DGGNP (Drug Graph Generation for Novel Proteins)
+Code for the paper "Graph Generative Network for Novel Protein-Specific De Novo Drug Generation"
